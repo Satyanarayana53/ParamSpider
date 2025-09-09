@@ -76,8 +76,11 @@ Contributions are welcome! If you'd like to contribute to `paramspider`, please 
 3. Make your changes and commit them.
 4. Submit a pull request.
 
-#License
-#MIT
+```
+
+## License
+
+## MIT
 
 ### What I changed
 - Fixed typos: **"achives" → "archives"**, **"termial" → "terminal"**, **"modifiy" → "modify"** (in your request), etc.
