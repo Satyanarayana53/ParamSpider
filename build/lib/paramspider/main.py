@@ -7,7 +7,7 @@ from . import client  # Importing client from a module named "client"
 from urllib.parse import urlparse, parse_qs, urlencode
 import os
 
-yellow_color_code = "\033[91m"
+yellow_color_code = "\033[93m"
 reset_color_code = "\033[0m"
 
 colorama.init(autoreset=True)  # Initialize colorama for colored terminal output
@@ -129,7 +129,7 @@ def main():
  / .__/\_,_/_/  \_,_/_/_/_/___/ .__/_/\_,_/\__/_/   
 /_/                          /_/                    
 
-                                 --CyberTech_15          
+                              with <3 by @0xasm0d3us           
     """
     colored_log_text = f"{yellow_color_code}{log_text}{reset_color_code}"
     print(colored_log_text)
