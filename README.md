@@ -14,8 +14,7 @@
 </p>
 
 
-![paramspider](https://github.com/devanshbatham/ParamSpider/blob/master/static/paramspider.png?raw=true)
-
+![paramspider]
 ## About
 
 `paramspider` allows you to fetch URLs related to any domain or a list of domains from Wayback achives. It filters out "boring" URLs, allowing you to focus on the ones that matter the most.
@@ -25,7 +24,7 @@
 To install `paramspider`, follow these steps:
 
 ```sh
-git clone https://github.com/devanshbatham/paramspider
+git clone https://github.com/Satyanarayana53/ParamSpider
 cd paramspider
 pip install .
 ```
@@ -79,10 +78,5 @@ Contributions are welcome! If you'd like to contribute to `paramspider`, please 
 2. Create a new branch.
 3. Make your changes and commit them.
 4. Submit a pull request.
-
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=devanshbatham/paramspider&type=Date)](https://star-history.com/#devanshbatham/paramspider&Date)
 
 
