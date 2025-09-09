@@ -79,7 +79,6 @@ Contributions are welcome! If you'd like to contribute to `paramspider`, please 
 -----
 
 ## License
-
 ## MIT
 
 ```
