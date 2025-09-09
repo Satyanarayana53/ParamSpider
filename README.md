@@ -16,6 +16,32 @@
 
 `paramspider` allows you to fetch URLs related to any domain or a list of domains from Wayback achives. It filters out "boring" URLs, allowing you to focus on the ones that matter the most.
 
+```
+ParamSpider/
+├── Dockerfile
+├── paramspider/
+│   ├── __init__.py
+│   ├── client.py
+│   ├── main.py
+│   ├── __pycache__
+│   │   ├── client.cpython-313.pyc
+│   │   ├── __init__.cpython-313.pyc
+│   │   ├── main.cpython-313.pyc
+├── paramspider.egg-info
+│   ├── dependency_links.txt
+│   ├── entry_points.txt
+│   ├── PKG-INFO
+│   ├── requires.txt
+│   ├── SOURCES.txt
+│   ├── top_level.txt
+├── README.md
+├── LICENSE
+├── results
+├── setup.py
+├── static
+
+```
+
 ## Installation
 
 To install `paramspider`, follow these steps:
