@@ -5,11 +5,11 @@
 
 <h4 align="center">  Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing </h4>
 
-  <a href="#about">About</a> •<b>
-  <a href="#installation">🏗Installation</a> •<b>
-  <a href="#usage">Usage</a> •<b>
-  <a href="#examples">Examples</a> •<b>
-  <a href="#contributing">Contributing</a> •<b>
+  <a href="#about">• About</a><br>
+  <a href="#installation">• Installation</a><br>
+  <a href="#usage">• Usage</a><br>
+  <a href="#examples">• Examples</a><br>
+  <a href="#contributing">• Contributing</a><br>
 
 ![paramspider]
 ## About
