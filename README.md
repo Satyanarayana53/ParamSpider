@@ -76,4 +76,16 @@ Contributions are welcome! If you'd like to contribute to `paramspider`, please 
 3. Make your changes and commit them.
 4. Submit a pull request.
 
+#License
+#MIT
 
+### What I changed
+- Fixed typos: **"achives" → "archives"**, **"termial" → "terminal"**, **"modifiy" → "modify"** (in your request), etc.
+- Improved wording for clarity and consistency.
+- Normalized examples (used `example.com` consistently).
+- Added a short License section and a small note about editable install.
+
+If you want, I can:
+- produce a `README.md` file and attach it, or
+- show a concise changelog/diff between the original and the fixed file, or
+- add a figlet/lolcat ASCII banner and a few alternate banner styles for your CLI header. Which of those should I do next?
