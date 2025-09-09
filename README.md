@@ -1,17 +1,17 @@
 <h1 align="center">
-    paramspider
+    ParamSpider
   <br>
 </h1>
 
 <h4 align="center">  Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing </h4>
 
-  <a href="#about">• About</a><br>
-  <a href="#installation">• Installation</a><br>
-  <a href="#usage">• Usage</a><br>
-  <a href="#examples">• Examples</a><br>
-  <a href="#contributing">• Contributing</a><br>
+- [About](#about)  
+- [Installation](#installation)  
+- [Usage](#usage)  
+- [Examples](#examples)  
+- [Contributing](#contributing)  
+- [License](#license)
 
-![paramspider]
 ## About
 
 `paramspider` allows you to fetch URLs related to any domain or a list of domains from Wayback achives. It filters out "boring" URLs, allowing you to focus on the ones that matter the most.
